@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @LikhithaGeetha
 - 👀 I’m interested in work
-- 🌱 I’m currently working on **Full Stack Developer**
-- 💞️ I’m looking to collaborate on **full stack Deve and fronted dev**
+- 🌱 I’m currently working on **Full Stack Developer** 
 - 📫 How to reach me **geethammu1502@gmail.com**
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: *I run a YouTube Channel* 
+
 
 <!---
 LikhithaGeetha/LikhithaGeetha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
