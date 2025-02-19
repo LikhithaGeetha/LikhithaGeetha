@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @LikhithaGeetha
-- 👀 I’m interested in work
-- 🌱 I’m currently working on **Full Stack Developer** 
 - 📫 How to reach me **geethammu1502@gmail.com**
 - 😄 Pronouns: she/her
 
